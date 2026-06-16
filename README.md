@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/Yashx073/LeetCode/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/Yashx073/LeetCode/tree/master/0125-valid-palindrome) |
 | [0392-is-subsequence](https://github.com/Yashx073/LeetCode/tree/master/0392-is-subsequence) |
+| [3931-process-string-with-special-operations-i](https://github.com/Yashx073/LeetCode/tree/master/3931-process-string-with-special-operations-i) |
 ## Stack
 |  |
 | ------- |
@@ -118,4 +119,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/Yashx073/LeetCode/tree/master/0055-jump-game) |
+## Simulation
+|  |
+| ------- |
+| [3931-process-string-with-special-operations-i](https://github.com/Yashx073/LeetCode/tree/master/3931-process-string-with-special-operations-i) |
 <!---LeetCode Topics End-->

@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/Yashx073/LeetCode/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/Yashx073/LeetCode/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/Yashx073/LeetCode/tree/master/0189-rotate-array) |
+| [1446-angle-between-hands-of-a-clock](https://github.com/Yashx073/LeetCode/tree/master/1446-angle-between-hands-of-a-clock) |
 ## String
 |  |
 | ------- |

@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/Yashx073/LeetCode/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/Yashx073/LeetCode/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/Yashx073/LeetCode/tree/master/0189-rotate-array) |
+| [0231-power-of-two](https://github.com/Yashx073/LeetCode/tree/master/0231-power-of-two) |
 | [1446-angle-between-hands-of-a-clock](https://github.com/Yashx073/LeetCode/tree/master/1446-angle-between-hands-of-a-clock) |
 ## String
 |  |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0021-merge-two-sorted-lists](https://github.com/Yashx073/LeetCode/tree/master/0021-merge-two-sorted-lists) |
 | [0050-powx-n](https://github.com/Yashx073/LeetCode/tree/master/0050-powx-n) |
 | [0203-remove-linked-list-elements](https://github.com/Yashx073/LeetCode/tree/master/0203-remove-linked-list-elements) |
+| [0231-power-of-two](https://github.com/Yashx073/LeetCode/tree/master/0231-power-of-two) |
 ## String Matching
 |  |
 | ------- |
@@ -137,4 +139,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Yashx073/LeetCode/tree/master/0169-majority-element) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/Yashx073/LeetCode/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->

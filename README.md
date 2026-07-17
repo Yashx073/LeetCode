@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2491-smallest-even-multiple](https://github.com/Yashx073/LeetCode/tree/master/2491-smallest-even-multiple) |
 | [2812-find-the-maximum-achievable-number](https://github.com/Yashx073/LeetCode/tree/master/2812-find-the-maximum-achievable-number) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Yashx073/LeetCode/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
+| [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Yashx073/LeetCode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3846-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Yashx073/LeetCode/tree/master/3846-minimum-operations-to-make-array-sum-divisible-by-k) |
 ## String
 |  |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1580-shuffle-the-array](https://github.com/Yashx073/LeetCode/tree/master/1580-shuffle-the-array) |
 | [2412-minimum-amount-of-time-to-fill-cups](https://github.com/Yashx073/LeetCode/tree/master/2412-minimum-amount-of-time-to-fill-cups) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Yashx073/LeetCode/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
+| [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Yashx073/LeetCode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3846-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Yashx073/LeetCode/tree/master/3846-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [4299-concatenate-array-with-reverse](https://github.com/Yashx073/LeetCode/tree/master/4299-concatenate-array-with-reverse) |
 ## Two Pointers
@@ -177,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Yashx073/LeetCode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3931-process-string-with-special-operations-i](https://github.com/Yashx073/LeetCode/tree/master/3931-process-string-with-special-operations-i) |
 | [3939-process-string-with-special-operations-ii](https://github.com/Yashx073/LeetCode/tree/master/3939-process-string-with-special-operations-ii) |
 | [4299-concatenate-array-with-reverse](https://github.com/Yashx073/LeetCode/tree/master/4299-concatenate-array-with-reverse) |
@@ -198,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0506-relative-ranks](https://github.com/Yashx073/LeetCode/tree/master/0506-relative-ranks) |
 | [2412-minimum-amount-of-time-to-fill-cups](https://github.com/Yashx073/LeetCode/tree/master/2412-minimum-amount-of-time-to-fill-cups) |
+| [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Yashx073/LeetCode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Tree
 |  |
 | ------- |

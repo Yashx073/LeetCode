@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0506-relative-ranks](https://github.com/Yashx073/LeetCode/tree/master/0506-relative-ranks) |
 | [1256-rank-transform-of-an-array](https://github.com/Yashx073/LeetCode/tree/master/1256-rank-transform-of-an-array) |
 | [1580-shuffle-the-array](https://github.com/Yashx073/LeetCode/tree/master/1580-shuffle-the-array) |
+| [2412-minimum-amount-of-time-to-fill-cups](https://github.com/Yashx073/LeetCode/tree/master/2412-minimum-amount-of-time-to-fill-cups) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Yashx073/LeetCode/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3846-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Yashx073/LeetCode/tree/master/3846-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [4299-concatenate-array-with-reverse](https://github.com/Yashx073/LeetCode/tree/master/4299-concatenate-array-with-reverse) |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Yashx073/LeetCode/tree/master/0217-contains-duplicate) |
 | [0506-relative-ranks](https://github.com/Yashx073/LeetCode/tree/master/0506-relative-ranks) |
 | [1256-rank-transform-of-an-array](https://github.com/Yashx073/LeetCode/tree/master/1256-rank-transform-of-an-array) |
+| [2412-minimum-amount-of-time-to-fill-cups](https://github.com/Yashx073/LeetCode/tree/master/2412-minimum-amount-of-time-to-fill-cups) |
 ## Linked List
 |  |
 | ------- |
@@ -171,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/Yashx073/LeetCode/tree/master/0055-jump-game) |
+| [2412-minimum-amount-of-time-to-fill-cups](https://github.com/Yashx073/LeetCode/tree/master/2412-minimum-amount-of-time-to-fill-cups) |
 ## Simulation
 |  |
 | ------- |
@@ -194,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0506-relative-ranks](https://github.com/Yashx073/LeetCode/tree/master/0506-relative-ranks) |
+| [2412-minimum-amount-of-time-to-fill-cups](https://github.com/Yashx073/LeetCode/tree/master/2412-minimum-amount-of-time-to-fill-cups) |
 ## Tree
 |  |
 | ------- |

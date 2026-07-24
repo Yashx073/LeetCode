@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Yashx073/LeetCode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Yashx073/LeetCode/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/Yashx073/LeetCode/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/Yashx073/LeetCode/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/Yashx073/LeetCode/tree/master/0326-power-of-three) |
 | [1446-angle-between-hands-of-a-clock](https://github.com/Yashx073/LeetCode/tree/master/1446-angle-between-hands-of-a-clock) |
 | [2491-smallest-even-multiple](https://github.com/Yashx073/LeetCode/tree/master/2491-smallest-even-multiple) |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/Yashx073/LeetCode/tree/master/0198-house-robber) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Yashx073/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/Yashx073/LeetCode/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/Yashx073/LeetCode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Yashx073/LeetCode/tree/master/0283-move-zeroes) |
 | [0506-relative-ranks](https://github.com/Yashx073/LeetCode/tree/master/0506-relative-ranks) |
 | [0948-sort-an-array](https://github.com/Yashx073/LeetCode/tree/master/0948-sort-an-array) |
@@ -115,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Yashx073/LeetCode/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/Yashx073/LeetCode/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/Yashx073/LeetCode/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/Yashx073/LeetCode/tree/master/0268-missing-number) |
 | [1256-rank-transform-of-an-array](https://github.com/Yashx073/LeetCode/tree/master/1256-rank-transform-of-an-array) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/Yashx073/LeetCode/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 ## Sorting
@@ -125,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Yashx073/LeetCode/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Yashx073/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/Yashx073/LeetCode/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/Yashx073/LeetCode/tree/master/0268-missing-number) |
 | [0506-relative-ranks](https://github.com/Yashx073/LeetCode/tree/master/0506-relative-ranks) |
 | [0948-sort-an-array](https://github.com/Yashx073/LeetCode/tree/master/0948-sort-an-array) |
 | [1256-rank-transform-of-an-array](https://github.com/Yashx073/LeetCode/tree/master/1256-rank-transform-of-an-array) |
@@ -185,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/Yashx073/LeetCode/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Yashx073/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0222-count-complete-tree-nodes](https://github.com/Yashx073/LeetCode/tree/master/0222-count-complete-tree-nodes) |
+| [0268-missing-number](https://github.com/Yashx073/LeetCode/tree/master/0268-missing-number) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -222,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0029-divide-two-integers](https://github.com/Yashx073/LeetCode/tree/master/0029-divide-two-integers) |
 | [0222-count-complete-tree-nodes](https://github.com/Yashx073/LeetCode/tree/master/0222-count-complete-tree-nodes) |
 | [0231-power-of-two](https://github.com/Yashx073/LeetCode/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/Yashx073/LeetCode/tree/master/0268-missing-number) |
 ## Number Theory
 |  |
 | ------- |

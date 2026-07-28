@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0506-relative-ranks](https://github.com/Yashx073/LeetCode/tree/master/0506-relative-ranks) |
 | [0948-sort-an-array](https://github.com/Yashx073/LeetCode/tree/master/0948-sort-an-array) |
 | [1127-last-stone-weight](https://github.com/Yashx073/LeetCode/tree/master/1127-last-stone-weight) |
+| [1217-relative-sort-array](https://github.com/Yashx073/LeetCode/tree/master/1217-relative-sort-array) |
 | [1256-rank-transform-of-an-array](https://github.com/Yashx073/LeetCode/tree/master/1256-rank-transform-of-an-array) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Yashx073/LeetCode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/Yashx073/LeetCode/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Yashx073/LeetCode/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/Yashx073/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/Yashx073/LeetCode/tree/master/0349-intersection-of-two-arrays) |
+| [1217-relative-sort-array](https://github.com/Yashx073/LeetCode/tree/master/1217-relative-sort-array) |
 | [1256-rank-transform-of-an-array](https://github.com/Yashx073/LeetCode/tree/master/1256-rank-transform-of-an-array) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Yashx073/LeetCode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/Yashx073/LeetCode/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
@@ -145,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/Yashx073/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0506-relative-ranks](https://github.com/Yashx073/LeetCode/tree/master/0506-relative-ranks) |
 | [0948-sort-an-array](https://github.com/Yashx073/LeetCode/tree/master/0948-sort-an-array) |
+| [1217-relative-sort-array](https://github.com/Yashx073/LeetCode/tree/master/1217-relative-sort-array) |
 | [1256-rank-transform-of-an-array](https://github.com/Yashx073/LeetCode/tree/master/1256-rank-transform-of-an-array) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/Yashx073/LeetCode/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [2412-minimum-amount-of-time-to-fill-cups](https://github.com/Yashx073/LeetCode/tree/master/2412-minimum-amount-of-time-to-fill-cups) |
@@ -306,6 +309,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0948-sort-an-array](https://github.com/Yashx073/LeetCode/tree/master/0948-sort-an-array) |
+| [1217-relative-sort-array](https://github.com/Yashx073/LeetCode/tree/master/1217-relative-sort-array) |
 ## Quickselect
 |  |
 | ------- |

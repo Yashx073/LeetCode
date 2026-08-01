@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/Yashx073/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Yashx073/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0155-min-stack](https://github.com/Yashx073/LeetCode/tree/master/0155-min-stack) |
+| [2123-the-number-of-weak-characters-in-the-game](https://github.com/Yashx073/LeetCode/tree/master/2123-the-number-of-weak-characters-in-the-game) |
 ## Array
 |  |
 | ------- |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1580-shuffle-the-array](https://github.com/Yashx073/LeetCode/tree/master/1580-shuffle-the-array) |
 | [1584-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/Yashx073/LeetCode/tree/master/1584-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1604-least-number-of-unique-integers-after-k-removals](https://github.com/Yashx073/LeetCode/tree/master/1604-least-number-of-unique-integers-after-k-removals) |
+| [2123-the-number-of-weak-characters-in-the-game](https://github.com/Yashx073/LeetCode/tree/master/2123-the-number-of-weak-characters-in-the-game) |
 | [2329-maximum-product-after-k-increments](https://github.com/Yashx073/LeetCode/tree/master/2329-maximum-product-after-k-increments) |
 | [2412-minimum-amount-of-time-to-fill-cups](https://github.com/Yashx073/LeetCode/tree/master/2412-minimum-amount-of-time-to-fill-cups) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/Yashx073/LeetCode/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
@@ -158,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/Yashx073/LeetCode/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1584-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/Yashx073/LeetCode/tree/master/1584-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1604-least-number-of-unique-integers-after-k-removals](https://github.com/Yashx073/LeetCode/tree/master/1604-least-number-of-unique-integers-after-k-removals) |
+| [2123-the-number-of-weak-characters-in-the-game](https://github.com/Yashx073/LeetCode/tree/master/2123-the-number-of-weak-characters-in-the-game) |
 | [2412-minimum-amount-of-time-to-fill-cups](https://github.com/Yashx073/LeetCode/tree/master/2412-minimum-amount-of-time-to-fill-cups) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/Yashx073/LeetCode/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 ## Linked List
@@ -229,11 +232,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Yashx073/LeetCode/tree/master/0042-trapping-rain-water) |
+| [2123-the-number-of-weak-characters-in-the-game](https://github.com/Yashx073/LeetCode/tree/master/2123-the-number-of-weak-characters-in-the-game) |
 ## Greedy
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/Yashx073/LeetCode/tree/master/0055-jump-game) |
 | [1604-least-number-of-unique-integers-after-k-removals](https://github.com/Yashx073/LeetCode/tree/master/1604-least-number-of-unique-integers-after-k-removals) |
+| [2123-the-number-of-weak-characters-in-the-game](https://github.com/Yashx073/LeetCode/tree/master/2123-the-number-of-weak-characters-in-the-game) |
 | [2329-maximum-product-after-k-increments](https://github.com/Yashx073/LeetCode/tree/master/2329-maximum-product-after-k-increments) |
 | [2412-minimum-amount-of-time-to-fill-cups](https://github.com/Yashx073/LeetCode/tree/master/2412-minimum-amount-of-time-to-fill-cups) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/Yashx073/LeetCode/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |

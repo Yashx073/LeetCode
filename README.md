@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/Yashx073/LeetCode/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/Yashx073/LeetCode/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/Yashx073/LeetCode/tree/master/0392-is-subsequence) |
+| [0520-detect-capital](https://github.com/Yashx073/LeetCode/tree/master/0520-detect-capital) |
 | [3931-process-string-with-special-operations-i](https://github.com/Yashx073/LeetCode/tree/master/3931-process-string-with-special-operations-i) |
 | [3939-process-string-with-special-operations-ii](https://github.com/Yashx073/LeetCode/tree/master/3939-process-string-with-special-operations-ii) |
 ## Stack

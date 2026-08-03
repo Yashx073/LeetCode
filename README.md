@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/Yashx073/LeetCode/tree/master/0326-power-of-three) |
 | [1446-angle-between-hands-of-a-clock](https://github.com/Yashx073/LeetCode/tree/master/1446-angle-between-hands-of-a-clock) |
 | [1635-number-of-good-pairs](https://github.com/Yashx073/LeetCode/tree/master/1635-number-of-good-pairs) |
+| [2037-count-square-sum-triples](https://github.com/Yashx073/LeetCode/tree/master/2037-count-square-sum-triples) |
 | [2383-add-two-integers](https://github.com/Yashx073/LeetCode/tree/master/2383-add-two-integers) |
 | [2491-smallest-even-multiple](https://github.com/Yashx073/LeetCode/tree/master/2491-smallest-even-multiple) |
 | [2812-find-the-maximum-achievable-number](https://github.com/Yashx073/LeetCode/tree/master/2812-find-the-maximum-achievable-number) |
@@ -341,4 +342,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/Yashx073/LeetCode/tree/master/0219-contains-duplicate-ii) |
+## Enumeration
+|  |
+| ------- |
+| [2037-count-square-sum-triples](https://github.com/Yashx073/LeetCode/tree/master/2037-count-square-sum-triples) |
 <!---LeetCode Topics End-->

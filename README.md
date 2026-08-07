@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2812-find-the-maximum-achievable-number](https://github.com/Yashx073/LeetCode/tree/master/2812-find-the-maximum-achievable-number) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Yashx073/LeetCode/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Yashx073/LeetCode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
+| [3626-smallest-divisible-digit-product-i](https://github.com/Yashx073/LeetCode/tree/master/3626-smallest-divisible-digit-product-i) |
 | [3846-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Yashx073/LeetCode/tree/master/3846-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [4242-sum-of-gcd-of-formed-pairs](https://github.com/Yashx073/LeetCode/tree/master/4242-sum-of-gcd-of-formed-pairs) |
 ## String
@@ -355,4 +356,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2037-count-square-sum-triples](https://github.com/Yashx073/LeetCode/tree/master/2037-count-square-sum-triples) |
+| [3626-smallest-divisible-digit-product-i](https://github.com/Yashx073/LeetCode/tree/master/3626-smallest-divisible-digit-product-i) |
 <!---LeetCode Topics End-->

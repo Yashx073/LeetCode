@@ -131,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/Yashx073/LeetCode/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/Yashx073/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0392-is-subsequence](https://github.com/Yashx073/LeetCode/tree/master/0392-is-subsequence) |
+| [0528-swapping-nodes-in-a-linked-list](https://github.com/Yashx073/LeetCode/tree/master/0528-swapping-nodes-in-a-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/Yashx073/LeetCode/tree/master/0908-middle-of-the-linked-list) |
 | [4242-sum-of-gcd-of-formed-pairs](https://github.com/Yashx073/LeetCode/tree/master/4242-sum-of-gcd-of-formed-pairs) |
 ## Hash Table
@@ -188,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/Yashx073/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0143-reorder-list](https://github.com/Yashx073/LeetCode/tree/master/0143-reorder-list) |
 | [0203-remove-linked-list-elements](https://github.com/Yashx073/LeetCode/tree/master/0203-remove-linked-list-elements) |
+| [0528-swapping-nodes-in-a-linked-list](https://github.com/Yashx073/LeetCode/tree/master/0528-swapping-nodes-in-a-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/Yashx073/LeetCode/tree/master/0908-middle-of-the-linked-list) |
 ## Recursion
 |  |

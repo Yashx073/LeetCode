@@ -118,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Yashx073/LeetCode/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Yashx073/LeetCode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3846-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Yashx073/LeetCode/tree/master/3846-minimum-operations-to-make-array-sum-divisible-by-k) |
+| [4080-smallest-missing-multiple-of-k](https://github.com/Yashx073/LeetCode/tree/master/4080-smallest-missing-multiple-of-k) |
 | [4107-find-missing-elements](https://github.com/Yashx073/LeetCode/tree/master/4107-find-missing-elements) |
 | [4242-sum-of-gcd-of-formed-pairs](https://github.com/Yashx073/LeetCode/tree/master/4242-sum-of-gcd-of-formed-pairs) |
 | [4299-concatenate-array-with-reverse](https://github.com/Yashx073/LeetCode/tree/master/4299-concatenate-array-with-reverse) |
@@ -170,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1604-least-number-of-unique-integers-after-k-removals](https://github.com/Yashx073/LeetCode/tree/master/1604-least-number-of-unique-integers-after-k-removals) |
 | [1635-number-of-good-pairs](https://github.com/Yashx073/LeetCode/tree/master/1635-number-of-good-pairs) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/Yashx073/LeetCode/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
+| [4080-smallest-missing-multiple-of-k](https://github.com/Yashx073/LeetCode/tree/master/4080-smallest-missing-multiple-of-k) |
 | [4107-find-missing-elements](https://github.com/Yashx073/LeetCode/tree/master/4107-find-missing-elements) |
 ## Sorting
 |  |

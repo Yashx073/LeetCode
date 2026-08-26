@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Yashx073/LeetCode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Yashx073/LeetCode/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/Yashx073/LeetCode/tree/master/0231-power-of-two) |
+| [0258-add-digits](https://github.com/Yashx073/LeetCode/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/Yashx073/LeetCode/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/Yashx073/LeetCode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Yashx073/LeetCode/tree/master/0342-power-of-four) |
@@ -299,6 +300,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/Yashx073/LeetCode/tree/master/0258-add-digits) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/Yashx073/LeetCode/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/Yashx073/LeetCode/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [3347-distribute-elements-into-two-arrays-i](https://github.com/Yashx073/LeetCode/tree/master/3347-distribute-elements-into-two-arrays-i) |
@@ -330,6 +332,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/Yashx073/LeetCode/tree/master/0258-add-digits) |
 | [2491-smallest-even-multiple](https://github.com/Yashx073/LeetCode/tree/master/2491-smallest-even-multiple) |
 | [3375-kth-smallest-amount-with-single-denomination-combination](https://github.com/Yashx073/LeetCode/tree/master/3375-kth-smallest-amount-with-single-denomination-combination) |
 | [4242-sum-of-gcd-of-formed-pairs](https://github.com/Yashx073/LeetCode/tree/master/4242-sum-of-gcd-of-formed-pairs) |

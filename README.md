@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/Yashx073/LeetCode/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/Yashx073/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [2123-the-number-of-weak-characters-in-the-game](https://github.com/Yashx073/LeetCode/tree/master/2123-the-number-of-weak-characters-in-the-game) |
+| [2573-remove-nodes-from-linked-list](https://github.com/Yashx073/LeetCode/tree/master/2573-remove-nodes-from-linked-list) |
 ## Array
 |  |
 | ------- |
@@ -222,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0328-odd-even-linked-list](https://github.com/Yashx073/LeetCode/tree/master/0328-odd-even-linked-list) |
 | [0528-swapping-nodes-in-a-linked-list](https://github.com/Yashx073/LeetCode/tree/master/0528-swapping-nodes-in-a-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/Yashx073/LeetCode/tree/master/0908-middle-of-the-linked-list) |
+| [2573-remove-nodes-from-linked-list](https://github.com/Yashx073/LeetCode/tree/master/2573-remove-nodes-from-linked-list) |
 ## Recursion
 |  |
 | ------- |
@@ -235,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/Yashx073/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0326-power-of-three](https://github.com/Yashx073/LeetCode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Yashx073/LeetCode/tree/master/0342-power-of-four) |
+| [2573-remove-nodes-from-linked-list](https://github.com/Yashx073/LeetCode/tree/master/2573-remove-nodes-from-linked-list) |
 ## String Matching
 |  |
 | ------- |
@@ -288,6 +291,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Yashx073/LeetCode/tree/master/0042-trapping-rain-water) |
 | [2123-the-number-of-weak-characters-in-the-game](https://github.com/Yashx073/LeetCode/tree/master/2123-the-number-of-weak-characters-in-the-game) |
+| [2573-remove-nodes-from-linked-list](https://github.com/Yashx073/LeetCode/tree/master/2573-remove-nodes-from-linked-list) |
 ## Greedy
 |  |
 | ------- |

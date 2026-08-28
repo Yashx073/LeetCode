@@ -225,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0328-odd-even-linked-list](https://github.com/Yashx073/LeetCode/tree/master/0328-odd-even-linked-list) |
 | [0528-swapping-nodes-in-a-linked-list](https://github.com/Yashx073/LeetCode/tree/master/0528-swapping-nodes-in-a-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/Yashx073/LeetCode/tree/master/0908-middle-of-the-linked-list) |
+| [2299-merge-nodes-in-between-zeros](https://github.com/Yashx073/LeetCode/tree/master/2299-merge-nodes-in-between-zeros) |
 | [2573-remove-nodes-from-linked-list](https://github.com/Yashx073/LeetCode/tree/master/2573-remove-nodes-from-linked-list) |
 ## Recursion
 |  |
@@ -308,6 +309,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/Yashx073/LeetCode/tree/master/0258-add-digits) |
+| [2299-merge-nodes-in-between-zeros](https://github.com/Yashx073/LeetCode/tree/master/2299-merge-nodes-in-between-zeros) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/Yashx073/LeetCode/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/Yashx073/LeetCode/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [3347-distribute-elements-into-two-arrays-i](https://github.com/Yashx073/LeetCode/tree/master/3347-distribute-elements-into-two-arrays-i) |

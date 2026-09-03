@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3918-check-divisibility-by-digit-sum-and-product](https://github.com/Yashx073/LeetCode/tree/master/3918-check-divisibility-by-digit-sum-and-product) |
 | [4242-sum-of-gcd-of-formed-pairs](https://github.com/Yashx073/LeetCode/tree/master/4242-sum-of-gcd-of-formed-pairs) |
 | [4256-construct-uniform-parity-array-i](https://github.com/Yashx073/LeetCode/tree/master/4256-construct-uniform-parity-array-i) |
+| [4258-construct-uniform-parity-array-ii](https://github.com/Yashx073/LeetCode/tree/master/4258-construct-uniform-parity-array-ii) |
 ## String
 |  |
 | ------- |
@@ -132,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [4107-find-missing-elements](https://github.com/Yashx073/LeetCode/tree/master/4107-find-missing-elements) |
 | [4242-sum-of-gcd-of-formed-pairs](https://github.com/Yashx073/LeetCode/tree/master/4242-sum-of-gcd-of-formed-pairs) |
 | [4256-construct-uniform-parity-array-i](https://github.com/Yashx073/LeetCode/tree/master/4256-construct-uniform-parity-array-i) |
+| [4258-construct-uniform-parity-array-ii](https://github.com/Yashx073/LeetCode/tree/master/4258-construct-uniform-parity-array-ii) |
 | [4299-concatenate-array-with-reverse](https://github.com/Yashx073/LeetCode/tree/master/4299-concatenate-array-with-reverse) |
 ## Two Pointers
 |  |

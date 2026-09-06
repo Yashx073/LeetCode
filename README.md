@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/Yashx073/LeetCode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Yashx073/LeetCode/tree/master/0342-power-of-four) |
 | [0371-sum-of-two-integers](https://github.com/Yashx073/LeetCode/tree/master/0371-sum-of-two-integers) |
+| [0396-rotate-function](https://github.com/Yashx073/LeetCode/tree/master/0396-rotate-function) |
 | [0412-fizz-buzz](https://github.com/Yashx073/LeetCode/tree/master/0412-fizz-buzz) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Yashx073/LeetCode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0633-sum-of-square-numbers](https://github.com/Yashx073/LeetCode/tree/master/0633-sum-of-square-numbers) |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/Yashx073/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0347-top-k-frequent-elements](https://github.com/Yashx073/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/Yashx073/LeetCode/tree/master/0349-intersection-of-two-arrays) |
+| [0396-rotate-function](https://github.com/Yashx073/LeetCode/tree/master/0396-rotate-function) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Yashx073/LeetCode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0506-relative-ranks](https://github.com/Yashx073/LeetCode/tree/master/0506-relative-ranks) |
 | [0948-sort-an-array](https://github.com/Yashx073/LeetCode/tree/master/0948-sort-an-array) |
@@ -272,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/Yashx073/LeetCode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Yashx073/LeetCode/tree/master/0213-house-robber-ii) |
 | [0392-is-subsequence](https://github.com/Yashx073/LeetCode/tree/master/0392-is-subsequence) |
+| [0396-rotate-function](https://github.com/Yashx073/LeetCode/tree/master/0396-rotate-function) |
 ## Memoization
 |  |
 | ------- |

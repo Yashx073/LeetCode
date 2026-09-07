@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/Yashx073/LeetCode/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/Yashx073/LeetCode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Yashx073/LeetCode/tree/master/0202-happy-number) |
+| [0204-count-primes](https://github.com/Yashx073/LeetCode/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/Yashx073/LeetCode/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/Yashx073/LeetCode/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/Yashx073/LeetCode/tree/master/0268-missing-number) |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Yashx073/LeetCode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Yashx073/LeetCode/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/Yashx073/LeetCode/tree/master/0198-house-robber) |
+| [0204-count-primes](https://github.com/Yashx073/LeetCode/tree/master/0204-count-primes) |
 | [0213-house-robber-ii](https://github.com/Yashx073/LeetCode/tree/master/0213-house-robber-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Yashx073/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/Yashx073/LeetCode/tree/master/0217-contains-duplicate) |
@@ -370,6 +372,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/Yashx073/LeetCode/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/Yashx073/LeetCode/tree/master/0258-add-digits) |
 | [2491-smallest-even-multiple](https://github.com/Yashx073/LeetCode/tree/master/2491-smallest-even-multiple) |
 | [3375-kth-smallest-amount-with-single-denomination-combination](https://github.com/Yashx073/LeetCode/tree/master/3375-kth-smallest-amount-with-single-denomination-combination) |
@@ -446,6 +449,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/Yashx073/LeetCode/tree/master/0204-count-primes) |
 | [2037-count-square-sum-triples](https://github.com/Yashx073/LeetCode/tree/master/2037-count-square-sum-triples) |
 | [3626-smallest-divisible-digit-product-i](https://github.com/Yashx073/LeetCode/tree/master/3626-smallest-divisible-digit-product-i) |
 ## Breadth-First Search
@@ -474,4 +478,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0374-guess-number-higher-or-lower](https://github.com/Yashx073/LeetCode/tree/master/0374-guess-number-higher-or-lower) |
+## Primality Test
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Yashx073/LeetCode/tree/master/0204-count-primes) |
+## Sieve Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Yashx073/LeetCode/tree/master/0204-count-primes) |
+## Prime Number Sieve
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Yashx073/LeetCode/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->

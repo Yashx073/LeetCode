@@ -505,4 +505,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/Yashx073/LeetCode/tree/master/0204-count-primes) |
+## Database
+|  |
+| ------- |
+| [0627-swap-sex-of-employees](https://github.com/Yashx073/LeetCode/tree/master/0627-swap-sex-of-employees) |
 <!---LeetCode Topics End-->

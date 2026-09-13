@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Yashx073/LeetCode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0507-perfect-number](https://github.com/Yashx073/LeetCode/tree/master/0507-perfect-number) |
 | [0633-sum-of-square-numbers](https://github.com/Yashx073/LeetCode/tree/master/0633-sum-of-square-numbers) |
+| [0670-maximum-swap](https://github.com/Yashx073/LeetCode/tree/master/0670-maximum-swap) |
 | [1013-fibonacci-number](https://github.com/Yashx073/LeetCode/tree/master/1013-fibonacci-number) |
 | [1446-angle-between-hands-of-a-clock](https://github.com/Yashx073/LeetCode/tree/master/1446-angle-between-hands-of-a-clock) |
 | [1635-number-of-good-pairs](https://github.com/Yashx073/LeetCode/tree/master/1635-number-of-good-pairs) |
@@ -341,6 +342,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Yashx073/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0402-remove-k-digits](https://github.com/Yashx073/LeetCode/tree/master/0402-remove-k-digits) |
 | [0605-can-place-flowers](https://github.com/Yashx073/LeetCode/tree/master/0605-can-place-flowers) |
+| [0670-maximum-swap](https://github.com/Yashx073/LeetCode/tree/master/0670-maximum-swap) |
 | [1604-least-number-of-unique-integers-after-k-removals](https://github.com/Yashx073/LeetCode/tree/master/1604-least-number-of-unique-integers-after-k-removals) |
 | [2039-sum-game](https://github.com/Yashx073/LeetCode/tree/master/2039-sum-game) |
 | [2123-the-number-of-weak-characters-in-the-game](https://github.com/Yashx073/LeetCode/tree/master/2123-the-number-of-weak-characters-in-the-game) |

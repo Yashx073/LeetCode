@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0670-maximum-swap](https://github.com/Yashx073/LeetCode/tree/master/0670-maximum-swap) |
 | [0728-self-dividing-numbers](https://github.com/Yashx073/LeetCode/tree/master/0728-self-dividing-numbers) |
 | [0755-reach-a-number](https://github.com/Yashx073/LeetCode/tree/master/0755-reach-a-number) |
+| [0866-rectangle-overlap](https://github.com/Yashx073/LeetCode/tree/master/0866-rectangle-overlap) |
 | [1013-fibonacci-number](https://github.com/Yashx073/LeetCode/tree/master/1013-fibonacci-number) |
 | [1446-angle-between-hands-of-a-clock](https://github.com/Yashx073/LeetCode/tree/master/1446-angle-between-hands-of-a-clock) |
 | [1635-number-of-good-pairs](https://github.com/Yashx073/LeetCode/tree/master/1635-number-of-good-pairs) |
@@ -520,4 +521,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0627-swap-sex-of-employees](https://github.com/Yashx073/LeetCode/tree/master/0627-swap-sex-of-employees) |
+## Geometry
+|  |
+| ------- |
+| [0866-rectangle-overlap](https://github.com/Yashx073/LeetCode/tree/master/0866-rectangle-overlap) |
 <!---LeetCode Topics End-->

@@ -521,6 +521,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0181-employees-earning-more-than-their-managers](https://github.com/Yashx073/LeetCode/tree/master/0181-employees-earning-more-than-their-managers) |
+| [0184-department-highest-salary](https://github.com/Yashx073/LeetCode/tree/master/0184-department-highest-salary) |
 | [0627-swap-sex-of-employees](https://github.com/Yashx073/LeetCode/tree/master/0627-swap-sex-of-employees) |
 ## Geometry
 |  |

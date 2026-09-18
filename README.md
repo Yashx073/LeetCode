@@ -528,6 +528,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0596-classes-with-at-least-5-students](https://github.com/Yashx073/LeetCode/tree/master/0596-classes-with-at-least-5-students) |
 | [0608-tree-node](https://github.com/Yashx073/LeetCode/tree/master/0608-tree-node) |
 | [0627-swap-sex-of-employees](https://github.com/Yashx073/LeetCode/tree/master/0627-swap-sex-of-employees) |
+| [1258-article-views-i](https://github.com/Yashx073/LeetCode/tree/master/1258-article-views-i) |
 ## Geometry
 |  |
 | ------- |

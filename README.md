@@ -524,6 +524,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Database
 |  |
 | ------- |
+| [0175-combine-two-tables](https://github.com/Yashx073/LeetCode/tree/master/0175-combine-two-tables) |
 | [0181-employees-earning-more-than-their-managers](https://github.com/Yashx073/LeetCode/tree/master/0181-employees-earning-more-than-their-managers) |
 | [0184-department-highest-salary](https://github.com/Yashx073/LeetCode/tree/master/0184-department-highest-salary) |
 | [0596-classes-with-at-least-5-students](https://github.com/Yashx073/LeetCode/tree/master/0596-classes-with-at-least-5-students) |

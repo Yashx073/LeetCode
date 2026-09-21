@@ -139,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1604-least-number-of-unique-integers-after-k-removals](https://github.com/Yashx073/LeetCode/tree/master/1604-least-number-of-unique-integers-after-k-removals) |
 | [1635-number-of-good-pairs](https://github.com/Yashx073/LeetCode/tree/master/1635-number-of-good-pairs) |
 | [2123-the-number-of-weak-characters-in-the-game](https://github.com/Yashx073/LeetCode/tree/master/2123-the-number-of-weak-characters-in-the-game) |
+| [2181-smallest-index-with-equal-value](https://github.com/Yashx073/LeetCode/tree/master/2181-smallest-index-with-equal-value) |
 | [2212-removing-minimum-and-maximum-from-array](https://github.com/Yashx073/LeetCode/tree/master/2212-removing-minimum-and-maximum-from-array) |
 | [2329-maximum-product-after-k-increments](https://github.com/Yashx073/LeetCode/tree/master/2329-maximum-product-after-k-increments) |
 | [2412-minimum-amount-of-time-to-fill-cups](https://github.com/Yashx073/LeetCode/tree/master/2412-minimum-amount-of-time-to-fill-cups) |

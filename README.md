@@ -133,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0658-find-k-closest-elements](https://github.com/Yashx073/LeetCode/tree/master/0658-find-k-closest-elements) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/Yashx073/LeetCode/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0724-find-pivot-index](https://github.com/Yashx073/LeetCode/tree/master/0724-find-pivot-index) |
+| [0740-delete-and-earn](https://github.com/Yashx073/LeetCode/tree/master/0740-delete-and-earn) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/Yashx073/LeetCode/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/Yashx073/LeetCode/tree/master/0792-binary-search) |
 | [0932-monotonic-array](https://github.com/Yashx073/LeetCode/tree/master/0932-monotonic-array) |
@@ -216,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Yashx073/LeetCode/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/Yashx073/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/Yashx073/LeetCode/tree/master/0349-intersection-of-two-arrays) |
+| [0740-delete-and-earn](https://github.com/Yashx073/LeetCode/tree/master/0740-delete-and-earn) |
 | [1217-relative-sort-array](https://github.com/Yashx073/LeetCode/tree/master/1217-relative-sort-array) |
 | [1256-rank-transform-of-an-array](https://github.com/Yashx073/LeetCode/tree/master/1256-rank-transform-of-an-array) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Yashx073/LeetCode/tree/master/1510-find-lucky-integer-in-an-array) |
@@ -311,6 +313,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0213-house-robber-ii](https://github.com/Yashx073/LeetCode/tree/master/0213-house-robber-ii) |
 | [0392-is-subsequence](https://github.com/Yashx073/LeetCode/tree/master/0392-is-subsequence) |
 | [0396-rotate-function](https://github.com/Yashx073/LeetCode/tree/master/0396-rotate-function) |
+| [0740-delete-and-earn](https://github.com/Yashx073/LeetCode/tree/master/0740-delete-and-earn) |
 | [1013-fibonacci-number](https://github.com/Yashx073/LeetCode/tree/master/1013-fibonacci-number) |
 ## Memoization
 |  |

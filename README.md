@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Yashx073/LeetCode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Yashx073/LeetCode/tree/master/0202-happy-number) |
 | [0204-count-primes](https://github.com/Yashx073/LeetCode/tree/master/0204-count-primes) |
+| [0224-basic-calculator](https://github.com/Yashx073/LeetCode/tree/master/0224-basic-calculator) |
 | [0231-power-of-two](https://github.com/Yashx073/LeetCode/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/Yashx073/LeetCode/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/Yashx073/LeetCode/tree/master/0268-missing-number) |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/Yashx073/LeetCode/tree/master/0032-longest-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/Yashx073/LeetCode/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/Yashx073/LeetCode/tree/master/0125-valid-palindrome) |
+| [0224-basic-calculator](https://github.com/Yashx073/LeetCode/tree/master/0224-basic-calculator) |
 | [0344-reverse-string](https://github.com/Yashx073/LeetCode/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/Yashx073/LeetCode/tree/master/0392-is-subsequence) |
 | [0402-remove-k-digits](https://github.com/Yashx073/LeetCode/tree/master/0402-remove-k-digits) |
@@ -90,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/Yashx073/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Yashx073/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/Yashx073/LeetCode/tree/master/0155-min-stack) |
+| [0224-basic-calculator](https://github.com/Yashx073/LeetCode/tree/master/0224-basic-calculator) |
 | [0234-palindrome-linked-list](https://github.com/Yashx073/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0402-remove-k-digits](https://github.com/Yashx073/LeetCode/tree/master/0402-remove-k-digits) |
 | [0678-valid-parenthesis-string](https://github.com/Yashx073/LeetCode/tree/master/0678-valid-parenthesis-string) |
@@ -301,6 +304,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/Yashx073/LeetCode/tree/master/0143-reorder-list) |
 | [0203-remove-linked-list-elements](https://github.com/Yashx073/LeetCode/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/Yashx073/LeetCode/tree/master/0206-reverse-linked-list) |
+| [0224-basic-calculator](https://github.com/Yashx073/LeetCode/tree/master/0224-basic-calculator) |
 | [0231-power-of-two](https://github.com/Yashx073/LeetCode/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/Yashx073/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0326-power-of-three](https://github.com/Yashx073/LeetCode/tree/master/0326-power-of-three) |

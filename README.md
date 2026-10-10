@@ -176,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2181-smallest-index-with-equal-value](https://github.com/Yashx073/LeetCode/tree/master/2181-smallest-index-with-equal-value) |
 | [2212-removing-minimum-and-maximum-from-array](https://github.com/Yashx073/LeetCode/tree/master/2212-removing-minimum-and-maximum-from-array) |
 | [2329-maximum-product-after-k-increments](https://github.com/Yashx073/LeetCode/tree/master/2329-maximum-product-after-k-increments) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/Yashx073/LeetCode/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2412-minimum-amount-of-time-to-fill-cups](https://github.com/Yashx073/LeetCode/tree/master/2412-minimum-amount-of-time-to-fill-cups) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/Yashx073/LeetCode/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [2508-maximum-sum-of-an-hourglass](https://github.com/Yashx073/LeetCode/tree/master/2508-maximum-sum-of-an-hourglass) |
@@ -279,6 +280,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1604-least-number-of-unique-integers-after-k-removals](https://github.com/Yashx073/LeetCode/tree/master/1604-least-number-of-unique-integers-after-k-removals) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/Yashx073/LeetCode/tree/master/1741-sort-array-by-increasing-frequency) |
 | [2123-the-number-of-weak-characters-in-the-game](https://github.com/Yashx073/LeetCode/tree/master/2123-the-number-of-weak-characters-in-the-game) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/Yashx073/LeetCode/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2412-minimum-amount-of-time-to-fill-cups](https://github.com/Yashx073/LeetCode/tree/master/2412-minimum-amount-of-time-to-fill-cups) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/Yashx073/LeetCode/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [4107-find-missing-elements](https://github.com/Yashx073/LeetCode/tree/master/4107-find-missing-elements) |
@@ -378,6 +380,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0745-find-smallest-letter-greater-than-target](https://github.com/Yashx073/LeetCode/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0755-reach-a-number](https://github.com/Yashx073/LeetCode/tree/master/0755-reach-a-number) |
 | [0792-binary-search](https://github.com/Yashx073/LeetCode/tree/master/0792-binary-search) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/Yashx073/LeetCode/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3375-kth-smallest-amount-with-single-denomination-combination](https://github.com/Yashx073/LeetCode/tree/master/3375-kth-smallest-amount-with-single-denomination-combination) |
 ## Divide and Conquer
 |  |
@@ -411,6 +414,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2123-the-number-of-weak-characters-in-the-game](https://github.com/Yashx073/LeetCode/tree/master/2123-the-number-of-weak-characters-in-the-game) |
 | [2212-removing-minimum-and-maximum-from-array](https://github.com/Yashx073/LeetCode/tree/master/2212-removing-minimum-and-maximum-from-array) |
 | [2329-maximum-product-after-k-increments](https://github.com/Yashx073/LeetCode/tree/master/2329-maximum-product-after-k-increments) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/Yashx073/LeetCode/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2412-minimum-amount-of-time-to-fill-cups](https://github.com/Yashx073/LeetCode/tree/master/2412-minimum-amount-of-time-to-fill-cups) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/Yashx073/LeetCode/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 ## Simulation
@@ -468,6 +472,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1127-last-stone-weight](https://github.com/Yashx073/LeetCode/tree/master/1127-last-stone-weight) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/Yashx073/LeetCode/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [2329-maximum-product-after-k-increments](https://github.com/Yashx073/LeetCode/tree/master/2329-maximum-product-after-k-increments) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/Yashx073/LeetCode/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2412-minimum-amount-of-time-to-fill-cups](https://github.com/Yashx073/LeetCode/tree/master/2412-minimum-amount-of-time-to-fill-cups) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/Yashx073/LeetCode/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/Yashx073/LeetCode/tree/master/2692-take-gifts-from-the-richest-pile) |

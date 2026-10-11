@@ -181,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/Yashx073/LeetCode/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [2508-maximum-sum-of-an-hourglass](https://github.com/Yashx073/LeetCode/tree/master/2508-maximum-sum-of-an-hourglass) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/Yashx073/LeetCode/tree/master/2692-take-gifts-from-the-richest-pile) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/Yashx073/LeetCode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3347-distribute-elements-into-two-arrays-i](https://github.com/Yashx073/LeetCode/tree/master/3347-distribute-elements-into-two-arrays-i) |
 | [3375-kth-smallest-amount-with-single-denomination-combination](https://github.com/Yashx073/LeetCode/tree/master/3375-kth-smallest-amount-with-single-denomination-combination) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Yashx073/LeetCode/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
@@ -543,6 +544,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0204-count-primes](https://github.com/Yashx073/LeetCode/tree/master/0204-count-primes) |
 | [2037-count-square-sum-triples](https://github.com/Yashx073/LeetCode/tree/master/2037-count-square-sum-triples) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/Yashx073/LeetCode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3626-smallest-divisible-digit-product-i](https://github.com/Yashx073/LeetCode/tree/master/3626-smallest-divisible-digit-product-i) |
 ## Breadth-First Search
 |  |

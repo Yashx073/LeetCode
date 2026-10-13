@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0866-rectangle-overlap](https://github.com/Yashx073/LeetCode/tree/master/0866-rectangle-overlap) |
 | [1013-fibonacci-number](https://github.com/Yashx073/LeetCode/tree/master/1013-fibonacci-number) |
 | [1446-angle-between-hands-of-a-clock](https://github.com/Yashx073/LeetCode/tree/master/1446-angle-between-hands-of-a-clock) |
+| [1492-the-kth-factor-of-n](https://github.com/Yashx073/LeetCode/tree/master/1492-the-kth-factor-of-n) |
 | [1501-circle-and-rectangle-overlapping](https://github.com/Yashx073/LeetCode/tree/master/1501-circle-and-rectangle-overlapping) |
 | [1635-number-of-good-pairs](https://github.com/Yashx073/LeetCode/tree/master/1635-number-of-good-pairs) |
 | [2037-count-square-sum-triples](https://github.com/Yashx073/LeetCode/tree/master/2037-count-square-sum-triples) |
@@ -464,6 +465,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0204-count-primes](https://github.com/Yashx073/LeetCode/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/Yashx073/LeetCode/tree/master/0258-add-digits) |
+| [1492-the-kth-factor-of-n](https://github.com/Yashx073/LeetCode/tree/master/1492-the-kth-factor-of-n) |
 | [2491-smallest-even-multiple](https://github.com/Yashx073/LeetCode/tree/master/2491-smallest-even-multiple) |
 | [3375-kth-smallest-amount-with-single-denomination-combination](https://github.com/Yashx073/LeetCode/tree/master/3375-kth-smallest-amount-with-single-denomination-combination) |
 | [4242-sum-of-gcd-of-formed-pairs](https://github.com/Yashx073/LeetCode/tree/master/4242-sum-of-gcd-of-formed-pairs) |
@@ -631,4 +633,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0997-find-the-town-judge](https://github.com/Yashx073/LeetCode/tree/master/0997-find-the-town-judge) |
+## Prime Factorization
+|  |
+| ------- |
+| [1492-the-kth-factor-of-n](https://github.com/Yashx073/LeetCode/tree/master/1492-the-kth-factor-of-n) |
 <!---LeetCode Topics End-->

@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0755-reach-a-number](https://github.com/Yashx073/LeetCode/tree/master/0755-reach-a-number) |
 | [0866-rectangle-overlap](https://github.com/Yashx073/LeetCode/tree/master/0866-rectangle-overlap) |
 | [1013-fibonacci-number](https://github.com/Yashx073/LeetCode/tree/master/1013-fibonacci-number) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/Yashx073/LeetCode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1446-angle-between-hands-of-a-clock](https://github.com/Yashx073/LeetCode/tree/master/1446-angle-between-hands-of-a-clock) |
 | [1492-the-kth-factor-of-n](https://github.com/Yashx073/LeetCode/tree/master/1492-the-kth-factor-of-n) |
 | [1501-circle-and-rectangle-overlapping](https://github.com/Yashx073/LeetCode/tree/master/1501-circle-and-rectangle-overlapping) |
@@ -168,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1127-last-stone-weight](https://github.com/Yashx073/LeetCode/tree/master/1127-last-stone-weight) |
 | [1217-relative-sort-array](https://github.com/Yashx073/LeetCode/tree/master/1217-relative-sort-array) |
 | [1256-rank-transform-of-an-array](https://github.com/Yashx073/LeetCode/tree/master/1256-rank-transform-of-an-array) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/Yashx073/LeetCode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Yashx073/LeetCode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1539-kth-missing-positive-number](https://github.com/Yashx073/LeetCode/tree/master/1539-kth-missing-positive-number) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/Yashx073/LeetCode/tree/master/1574-maximum-product-of-two-elements-in-an-array) |

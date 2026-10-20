@@ -173,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1235-maximum-profit-in-job-scheduling](https://github.com/Yashx073/LeetCode/tree/master/1235-maximum-profit-in-job-scheduling) |
 | [1256-rank-transform-of-an-array](https://github.com/Yashx073/LeetCode/tree/master/1256-rank-transform-of-an-array) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Yashx073/LeetCode/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/Yashx073/LeetCode/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Yashx073/LeetCode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1539-kth-missing-positive-number](https://github.com/Yashx073/LeetCode/tree/master/1539-kth-missing-positive-number) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/Yashx073/LeetCode/tree/master/1574-maximum-product-of-two-elements-in-an-array) |

@@ -624,6 +624,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1193-monthly-transactions-i](https://github.com/Yashx073/LeetCode/tree/master/1193-monthly-transactions-i) |
 | [1251-average-selling-price](https://github.com/Yashx073/LeetCode/tree/master/1251-average-selling-price) |
 | [1258-article-views-i](https://github.com/Yashx073/LeetCode/tree/master/1258-article-views-i) |
+| [1327-list-the-products-ordered-in-a-period](https://github.com/Yashx073/LeetCode/tree/master/1327-list-the-products-ordered-in-a-period) |
 ## Geometry
 |  |
 | ------- |

@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2037-count-square-sum-triples](https://github.com/Yashx073/LeetCode/tree/master/2037-count-square-sum-triples) |
 | [2039-sum-game](https://github.com/Yashx073/LeetCode/tree/master/2039-sum-game) |
 | [2383-add-two-integers](https://github.com/Yashx073/LeetCode/tree/master/2383-add-two-integers) |
+| [2409-count-days-spent-together](https://github.com/Yashx073/LeetCode/tree/master/2409-count-days-spent-together) |
 | [2491-smallest-even-multiple](https://github.com/Yashx073/LeetCode/tree/master/2491-smallest-even-multiple) |
 | [2812-find-the-maximum-achievable-number](https://github.com/Yashx073/LeetCode/tree/master/2812-find-the-maximum-achievable-number) |
 | [3375-kth-smallest-amount-with-single-denomination-combination](https://github.com/Yashx073/LeetCode/tree/master/3375-kth-smallest-amount-with-single-denomination-combination) |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Yashx073/LeetCode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/Yashx073/LeetCode/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [2039-sum-game](https://github.com/Yashx073/LeetCode/tree/master/2039-sum-game) |
+| [2409-count-days-spent-together](https://github.com/Yashx073/LeetCode/tree/master/2409-count-days-spent-together) |
 | [3811-reverse-degree-of-a-string](https://github.com/Yashx073/LeetCode/tree/master/3811-reverse-degree-of-a-string) |
 | [3931-process-string-with-special-operations-i](https://github.com/Yashx073/LeetCode/tree/master/3931-process-string-with-special-operations-i) |
 | [3939-process-string-with-special-operations-ii](https://github.com/Yashx073/LeetCode/tree/master/3939-process-string-with-special-operations-ii) |

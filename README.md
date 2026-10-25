@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Yashx073/LeetCode/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Yashx073/LeetCode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3626-smallest-divisible-digit-product-i](https://github.com/Yashx073/LeetCode/tree/master/3626-smallest-divisible-digit-product-i) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/Yashx073/LeetCode/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/Yashx073/LeetCode/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3846-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Yashx073/LeetCode/tree/master/3846-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3869-smallest-index-with-digit-sum-equal-to-index](https://github.com/Yashx073/LeetCode/tree/master/3869-smallest-index-with-digit-sum-equal-to-index) |
@@ -493,6 +494,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1492-the-kth-factor-of-n](https://github.com/Yashx073/LeetCode/tree/master/1492-the-kth-factor-of-n) |
 | [2491-smallest-even-multiple](https://github.com/Yashx073/LeetCode/tree/master/2491-smallest-even-multiple) |
 | [3375-kth-smallest-amount-with-single-denomination-combination](https://github.com/Yashx073/LeetCode/tree/master/3375-kth-smallest-amount-with-single-denomination-combination) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/Yashx073/LeetCode/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [4242-sum-of-gcd-of-formed-pairs](https://github.com/Yashx073/LeetCode/tree/master/4242-sum-of-gcd-of-formed-pairs) |
 ## Heap (Priority Queue)
 |  |

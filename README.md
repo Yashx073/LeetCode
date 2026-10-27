@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/Yashx073/LeetCode/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [2039-sum-game](https://github.com/Yashx073/LeetCode/tree/master/2039-sum-game) |
 | [2409-count-days-spent-together](https://github.com/Yashx073/LeetCode/tree/master/2409-count-days-spent-together) |
+| [2785-sort-vowels-in-a-string](https://github.com/Yashx073/LeetCode/tree/master/2785-sort-vowels-in-a-string) |
 | [3811-reverse-degree-of-a-string](https://github.com/Yashx073/LeetCode/tree/master/3811-reverse-degree-of-a-string) |
 | [3931-process-string-with-special-operations-i](https://github.com/Yashx073/LeetCode/tree/master/3931-process-string-with-special-operations-i) |
 | [3939-process-string-with-special-operations-ii](https://github.com/Yashx073/LeetCode/tree/master/3939-process-string-with-special-operations-ii) |
@@ -309,6 +310,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2333-minimum-sum-of-squared-difference](https://github.com/Yashx073/LeetCode/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2412-minimum-amount-of-time-to-fill-cups](https://github.com/Yashx073/LeetCode/tree/master/2412-minimum-amount-of-time-to-fill-cups) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/Yashx073/LeetCode/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
+| [2785-sort-vowels-in-a-string](https://github.com/Yashx073/LeetCode/tree/master/2785-sort-vowels-in-a-string) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Yashx073/LeetCode/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [4107-find-missing-elements](https://github.com/Yashx073/LeetCode/tree/master/4107-find-missing-elements) |
 | [4242-sum-of-gcd-of-formed-pairs](https://github.com/Yashx073/LeetCode/tree/master/4242-sum-of-gcd-of-formed-pairs) |

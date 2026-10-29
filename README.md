@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2409-count-days-spent-together](https://github.com/Yashx073/LeetCode/tree/master/2409-count-days-spent-together) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Yashx073/LeetCode/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2491-smallest-even-multiple](https://github.com/Yashx073/LeetCode/tree/master/2491-smallest-even-multiple) |
+| [2698-find-the-punishment-number-of-an-integer](https://github.com/Yashx073/LeetCode/tree/master/2698-find-the-punishment-number-of-an-integer) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/Yashx073/LeetCode/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 | [2812-find-the-maximum-achievable-number](https://github.com/Yashx073/LeetCode/tree/master/2812-find-the-maximum-achievable-number) |
 | [3375-kth-smallest-amount-with-single-denomination-combination](https://github.com/Yashx073/LeetCode/tree/master/3375-kth-smallest-amount-with-single-denomination-combination) |
@@ -684,4 +685,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1492-the-kth-factor-of-n](https://github.com/Yashx073/LeetCode/tree/master/1492-the-kth-factor-of-n) |
+## Backtracking
+|  |
+| ------- |
+| [2698-find-the-punishment-number-of-an-integer](https://github.com/Yashx073/LeetCode/tree/master/2698-find-the-punishment-number-of-an-integer) |
 <!---LeetCode Topics End-->

@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1446-angle-between-hands-of-a-clock](https://github.com/Yashx073/LeetCode/tree/master/1446-angle-between-hands-of-a-clock) |
 | [1492-the-kth-factor-of-n](https://github.com/Yashx073/LeetCode/tree/master/1492-the-kth-factor-of-n) |
 | [1501-circle-and-rectangle-overlapping](https://github.com/Yashx073/LeetCode/tree/master/1501-circle-and-rectangle-overlapping) |
+| [1561-maximum-number-of-coins-you-can-get](https://github.com/Yashx073/LeetCode/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1635-number-of-good-pairs](https://github.com/Yashx073/LeetCode/tree/master/1635-number-of-good-pairs) |
 | [1780-check-if-number-is-a-sum-of-powers-of-three](https://github.com/Yashx073/LeetCode/tree/master/1780-check-if-number-is-a-sum-of-powers-of-three) |
 | [2037-count-square-sum-triples](https://github.com/Yashx073/LeetCode/tree/master/2037-count-square-sum-triples) |
@@ -191,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/Yashx073/LeetCode/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Yashx073/LeetCode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1539-kth-missing-positive-number](https://github.com/Yashx073/LeetCode/tree/master/1539-kth-missing-positive-number) |
+| [1561-maximum-number-of-coins-you-can-get](https://github.com/Yashx073/LeetCode/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/Yashx073/LeetCode/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1580-shuffle-the-array](https://github.com/Yashx073/LeetCode/tree/master/1580-shuffle-the-array) |
 | [1584-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/Yashx073/LeetCode/tree/master/1584-average-salary-excluding-the-minimum-and-maximum-salary) |
@@ -313,6 +315,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1217-relative-sort-array](https://github.com/Yashx073/LeetCode/tree/master/1217-relative-sort-array) |
 | [1235-maximum-profit-in-job-scheduling](https://github.com/Yashx073/LeetCode/tree/master/1235-maximum-profit-in-job-scheduling) |
 | [1256-rank-transform-of-an-array](https://github.com/Yashx073/LeetCode/tree/master/1256-rank-transform-of-an-array) |
+| [1561-maximum-number-of-coins-you-can-get](https://github.com/Yashx073/LeetCode/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/Yashx073/LeetCode/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1584-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/Yashx073/LeetCode/tree/master/1584-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1604-least-number-of-unique-integers-after-k-removals](https://github.com/Yashx073/LeetCode/tree/master/1604-least-number-of-unique-integers-after-k-removals) |
@@ -458,6 +461,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Yashx073/LeetCode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1323-maximum-69-number](https://github.com/Yashx073/LeetCode/tree/master/1323-maximum-69-number) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Yashx073/LeetCode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
+| [1561-maximum-number-of-coins-you-can-get](https://github.com/Yashx073/LeetCode/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1604-least-number-of-unique-integers-after-k-removals](https://github.com/Yashx073/LeetCode/tree/master/1604-least-number-of-unique-integers-after-k-removals) |
 | [2039-sum-game](https://github.com/Yashx073/LeetCode/tree/master/2039-sum-game) |
 | [2123-the-number-of-weak-characters-in-the-game](https://github.com/Yashx073/LeetCode/tree/master/2123-the-number-of-weak-characters-in-the-game) |
@@ -632,6 +636,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Game Theory
 |  |
 | ------- |
+| [1561-maximum-number-of-coins-you-can-get](https://github.com/Yashx073/LeetCode/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [2039-sum-game](https://github.com/Yashx073/LeetCode/tree/master/2039-sum-game) |
 ## Interactive
 |  |

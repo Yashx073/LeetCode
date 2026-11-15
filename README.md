@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1446-angle-between-hands-of-a-clock](https://github.com/Yashx073/LeetCode/tree/master/1446-angle-between-hands-of-a-clock) |
 | [1492-the-kth-factor-of-n](https://github.com/Yashx073/LeetCode/tree/master/1492-the-kth-factor-of-n) |
 | [1501-circle-and-rectangle-overlapping](https://github.com/Yashx073/LeetCode/tree/master/1501-circle-and-rectangle-overlapping) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Yashx073/LeetCode/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/Yashx073/LeetCode/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1635-number-of-good-pairs](https://github.com/Yashx073/LeetCode/tree/master/1635-number-of-good-pairs) |
 | [1780-check-if-number-is-a-sum-of-powers-of-three](https://github.com/Yashx073/LeetCode/tree/master/1780-check-if-number-is-a-sum-of-powers-of-three) |
@@ -195,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/Yashx073/LeetCode/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Yashx073/LeetCode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Yashx073/LeetCode/tree/master/1510-find-lucky-integer-in-an-array) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Yashx073/LeetCode/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1539-kth-missing-positive-number](https://github.com/Yashx073/LeetCode/tree/master/1539-kth-missing-positive-number) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/Yashx073/LeetCode/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/Yashx073/LeetCode/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
@@ -405,6 +407,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0740-delete-and-earn](https://github.com/Yashx073/LeetCode/tree/master/0740-delete-and-earn) |
 | [1013-fibonacci-number](https://github.com/Yashx073/LeetCode/tree/master/1013-fibonacci-number) |
 | [1235-maximum-profit-in-job-scheduling](https://github.com/Yashx073/LeetCode/tree/master/1235-maximum-profit-in-job-scheduling) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Yashx073/LeetCode/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 ## Memoization
 |  |
 | ------- |
@@ -642,6 +645,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0724-find-pivot-index](https://github.com/Yashx073/LeetCode/tree/master/0724-find-pivot-index) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Yashx073/LeetCode/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [2391-minimum-amount-of-time-to-collect-garbage](https://github.com/Yashx073/LeetCode/tree/master/2391-minimum-amount-of-time-to-collect-garbage) |
 | [2508-maximum-sum-of-an-hourglass](https://github.com/Yashx073/LeetCode/tree/master/2508-maximum-sum-of-an-hourglass) |
 | [3364-minimum-positive-sum-subarray](https://github.com/Yashx073/LeetCode/tree/master/3364-minimum-positive-sum-subarray) |

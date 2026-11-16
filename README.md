@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Yashx073/LeetCode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/Yashx073/LeetCode/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [2039-sum-game](https://github.com/Yashx073/LeetCode/tree/master/2039-sum-game) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/Yashx073/LeetCode/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2390-removing-stars-from-a-string](https://github.com/Yashx073/LeetCode/tree/master/2390-removing-stars-from-a-string) |
 | [2391-minimum-amount-of-time-to-collect-garbage](https://github.com/Yashx073/LeetCode/tree/master/2391-minimum-amount-of-time-to-collect-garbage) |
 | [2409-count-days-spent-together](https://github.com/Yashx073/LeetCode/tree/master/2409-count-days-spent-together) |
@@ -497,6 +498,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0983-validate-stack-sequences](https://github.com/Yashx073/LeetCode/tree/master/0983-validate-stack-sequences) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Yashx073/LeetCode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Yashx073/LeetCode/tree/master/2161-partition-array-according-to-given-pivot) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/Yashx073/LeetCode/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/Yashx073/LeetCode/tree/master/2299-merge-nodes-in-between-zeros) |
 | [2390-removing-stars-from-a-string](https://github.com/Yashx073/LeetCode/tree/master/2390-removing-stars-from-a-string) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/Yashx073/LeetCode/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |

@@ -220,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/Yashx073/LeetCode/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Yashx073/LeetCode/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2508-maximum-sum-of-an-hourglass](https://github.com/Yashx073/LeetCode/tree/master/2508-maximum-sum-of-an-hourglass) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/Yashx073/LeetCode/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/Yashx073/LeetCode/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Yashx073/LeetCode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3347-distribute-elements-into-two-arrays-i](https://github.com/Yashx073/LeetCode/tree/master/3347-distribute-elements-into-two-arrays-i) |
@@ -343,6 +344,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2333-minimum-sum-of-squared-difference](https://github.com/Yashx073/LeetCode/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2412-minimum-amount-of-time-to-fill-cups](https://github.com/Yashx073/LeetCode/tree/master/2412-minimum-amount-of-time-to-fill-cups) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/Yashx073/LeetCode/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/Yashx073/LeetCode/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2785-sort-vowels-in-a-string](https://github.com/Yashx073/LeetCode/tree/master/2785-sort-vowels-in-a-string) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Yashx073/LeetCode/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [4107-find-missing-elements](https://github.com/Yashx073/LeetCode/tree/master/4107-find-missing-elements) |
@@ -492,6 +494,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2333-minimum-sum-of-squared-difference](https://github.com/Yashx073/LeetCode/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2412-minimum-amount-of-time-to-fill-cups](https://github.com/Yashx073/LeetCode/tree/master/2412-minimum-amount-of-time-to-fill-cups) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/Yashx073/LeetCode/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/Yashx073/LeetCode/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/Yashx073/LeetCode/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Yashx073/LeetCode/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Simulation

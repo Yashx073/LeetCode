@@ -208,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1635-number-of-good-pairs](https://github.com/Yashx073/LeetCode/tree/master/1635-number-of-good-pairs) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/Yashx073/LeetCode/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Yashx073/LeetCode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
+| [1929-concatenation-of-array](https://github.com/Yashx073/LeetCode/tree/master/1929-concatenation-of-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Yashx073/LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2123-the-number-of-weak-characters-in-the-game](https://github.com/Yashx073/LeetCode/tree/master/2123-the-number-of-weak-characters-in-the-game) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Yashx073/LeetCode/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -505,6 +506,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/Yashx073/LeetCode/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/Yashx073/LeetCode/tree/master/0412-fizz-buzz) |
 | [0983-validate-stack-sequences](https://github.com/Yashx073/LeetCode/tree/master/0983-validate-stack-sequences) |
+| [1929-concatenation-of-array](https://github.com/Yashx073/LeetCode/tree/master/1929-concatenation-of-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Yashx073/LeetCode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Yashx073/LeetCode/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/Yashx073/LeetCode/tree/master/2243-calculate-digit-sum-of-a-string) |
